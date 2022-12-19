@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <h1 align="center">Hi 👋, I'm Vishwa De Silva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6046919f8276b876330735e2/60519a8ad2a3d67e48d03816_cli.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21272172&label=Profile%20views&color=0e75b6&style=flat" alt="it21272172" /> </p>
